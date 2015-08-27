@@ -1,0 +1,55 @@
+
+
+Examples dt/dd pairs from etymonline
+------------------------------------
+
+<dt class="highlight">
+    <a href="/index.php?term=-ability&amp;allowed_in_frame=0">-ability</a> <--- WORD
+    <a class="dictionary" href="http://dictionary.reference.com/search?q=-ability" title="Look up -ability at Dictionary.com">
+        <img alt="Look up -ability at Dictionary.com" height="16" src="graphics/dictionary.gif" title="Look up -ability at Dictionary.com" width="16"/>
+    </a>
+</dt>
+
+
+<dd class="highlight">
+    word-forming element expressing ability, fitness, or capacity, from Latin <span class="foreign">-abilitas</span>,
+    forming nouns from adjectives ending in <span class="foreign">-abilis</span> (see
+    <a class="crossreference" href="/index.php?term=-able&amp;allowed_in_frame=0">-able</a>). ç to
+    <a class="crossreference" href="/index.php?term=ability&amp;allowed_in_frame=0">ability</a>, though popularly connected with it.
+</dd>
+
+---
+<dt class="highlight">
+    <a href="/index.php?term=eject&allowed_in_frame=0">eject (v.)</a>
+    <a href="http://dictionary.reference.com/search?q=eject" class="dictionary" title="Look up eject at Dictionary.com">
+        <img src="graphics/dictionary.gif" width="16" height="16" alt="Look up eject at Dictionary.com" title="Look up eject at Dictionary.com" />
+    </a>
+</dt>
+
+<dd class="highlight">
+    mid-15c., from Latin
+
+    <span class="foreign">eiectus</span>  <-- ROOT
+
+    "thrown out," past participle of
+    <span class="foreign">eicere</span> "throw out, cast out, thrust out; drive into exile, expel,
+    drive away," from <span class="foreign">ex-</span> "out"
+    (see <a href="/index.php?term=ex-&allowed_in_frame=0" class="crossreference">ex-</a>) <-- CROSS REF
+    + <span class="foreign">-icere</span>,
+    comb. form of <span class="foreign">iacere</span> "to throw" (see
+    <a href="/index.php?term=jet&allowed_in_frame=0" class="crossreference">jet</a> (v.)).
+    Related: <span class="foreign">Ejected</span>; <span class="foreign">ejecting</span>.
+    <span class="foreign">Ejecta</span> "matter thrown out by a volcano" is from 1851.
+</dd>
+
+
+
+schema elements:
+
+significant terms: 'not etymologically related to' or 'not related to'.
+
+Entry
+- word
+- cross_references (m2m)
+- root
+-
